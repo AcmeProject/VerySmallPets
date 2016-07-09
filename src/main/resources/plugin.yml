@@ -1,0 +1,5 @@
+name: VerySmallPets
+version: ${project.version}
+main: net.poweredbyhate.verysmallpets.VerySmallPets
+authors: [AcmeProject]
+description: a bukkit plugin that allows you to create custom very small pets!
